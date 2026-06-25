@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "黄思恒" 
   avatar           : "images/android-chrome-512x512.png"
-  bio              :"大连交通大学 机械工程+软件工程 2024级本科生"
+  bio              : "大连交通大学 机械工程+软件工程 2024级本科生"
   location         : "辽宁大连, 中国"
   employer         :
   pubmed           : 
