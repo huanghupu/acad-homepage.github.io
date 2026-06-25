@@ -9,13 +9,9 @@
 title                    : "Huang Siheng(黄思恒)"
 description              : "我叫黄思恒，福建龙岩人，就读于大连交通大学2024级机械工程＋软件工程专业。本科期间在机械设计，机器学习、深度学习、知识图谱与大模型应用方面有过一定的学术积累。热衷开源项目贡献与技术社区研讨，习惯用技术博客沉淀实践。 "
 repository               : "huanghupu/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -27,9 +23,7 @@ author:
   location         : "辽宁大连, 中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "2609561514@qq.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
